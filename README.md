@@ -1,2 +1,2 @@
 # orange
-A website about oranges.
+A website about oranges. It's both a fruit AND a color. There's a LOT of things about ORANGES...
